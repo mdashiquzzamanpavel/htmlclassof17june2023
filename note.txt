@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>17 june class</title>
+</head>
+<body>
+	<!--this is hyperlink element-->
+
+	<a href="https://github.com/mdashiquzzamanpavel">my github account</a>
+
+	<!--this is hyperlink element-->
+	<br>
+
+	<!--this is abbr element-->
+
+	<abbr title="md.ashiquzzaman pavel" >map</abbr>
+
+	<!--this is abbr element-->
+
+	<!--this is heading elements-->
+	<h1 style="border: 1px solid darkred; text-align: center;">This is heading1</h1>
+	<h2 style="border: 1px solid darkred; text-align: center;">This is heading2</h2>
+	<h3 style="border: 1px solid darkred; text-align: center;">This is heading3</h3>
+	<h4 style="border: 1px solid darkred; text-align: center;">This is heading4</h4>
+	<h5 style="border: 1px solid darkred; text-align: center;">This is heading5</h5>
+	<h6 style="border: 1px solid darkred; text-align: center;">This is heading6</h6>
+	<!--this is heading elements-->
+
+
+
+	<!--this is address element-->
+	<address>
+		md.ashiquzzaman pavel <br>
+		agargaon <br>
+		coloner goli<br>
+		dhaka-1207<br>
+		bangladesh<br>
+	</address>
+	<!--this is address element-->
+
+	<!--this is article element-->
+	<article>
+		<h2>md ashiquzzaman pavel</h2>
+		<p>mply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lo </p>
+	</article>
+	<!--this is article element-->
+
+	<!--this is aside element-->
+	<aside>
+		<h4>md aashiquzzaman pavel</h4>
+		<p>
+			mply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lo
+		</p>
+	</aside>
+	<!--this is aside element-->
+
+	<!--this is audio element-->
+	<audio controls> 
+		<source src="audio/audio01.mp3" type="audio/mp3">
+			this audio is not supported to your browser
+	</audio> <br>
+	<!--this is audio element-->
+
+	<!--this is button element-->
+	<button type="button">
+		click me
+	</button>
+	<!--this is button element-->
+
+	<!--this is description element-->
+	<dl>
+		<dt>abc</dt>
+		<dd>md ashiquzzaman pavel</dd>
+		<dt>def</dt>
+		<dd>md ashiquzzaman pavel</dd>
+	</dl>
+	<!--this is description element-->
+
+	<!--this is paragraph,bold,italic element-->
+
+	<p style="background-color: lightgrey; text-align: center; ">
+		 simply dummy text of the printing and typesetting <b style="color: darkred;"> simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</b> industry. Lorem Ipsum has been the in <em style=" color: darkblue;"> simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</em> dustry's standard dummy text ever since the 1 <strong> simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</strong> 500s, when an unknown printer took a galley of <i style="color: darkred;"> simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</i> type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the releaseq <q style="font-size: 20px; color: blue ; ">enturies, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with</q> of  blo Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+	</p>
+	<!--this is paragraph,bold,italic element-->
+
+	<!--this is image element-->
+	<img src="image/image01.jpg" alt="computer table" width="300px">
+	<!--this is image element-->
+
+	<!--this is ordered list,unordered list element-->
+
+	<ol>
+		<li>ashiq123</li>
+		<li>ashiq123</li>
+		<li>ashiq123</li>
+	</ol>
+
+	<ul>
+		<li>ashiq123</li>
+		<ol start="55">
+			<li>md</li>
+			<li>md</li>
+			<li>md</li>
+		</ol>
+		<li>ashiq456</li>
+		<li>ashiq456</li>
+	</ul>
+	<!--this is ordered list,unordered list element-->
+
+
+	<!--this is blockquote list element-->
+
+	<blockquote cite="md.ashiquzzaman pavel">
+		into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with,into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with..into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with
+		
+	</blockquote>
+	<!--this is blockquote list element-->
+
+	
+</body>
+</html>
